@@ -1,7 +1,7 @@
 # rcrs-config.psd1
 
 @{
-    RCRSServer = "C:\Users\nononoexe\Dropbox\Projects\rcrs-server"
-    RCRSClient = "C:\Users\nononoexe\Dropbox\Projects\ait-rescue"
-    GitBash = "C:\Program Files\Git\bin\bash.exe"
+    RCRSServer = "Your\Server\Path"
+    RCRSClient = "Your\Client\Path"
+    GitBash = "Your\GitBash\Path"
 }
